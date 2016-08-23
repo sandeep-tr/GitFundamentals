@@ -1,3 +1,3 @@
 "Hello, Git" 
-Modified.
+Modified by local.
 Modified by remote.
